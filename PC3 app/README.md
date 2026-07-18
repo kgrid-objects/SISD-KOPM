@@ -1,4 +1,4 @@
-# PC3 --- Published Computational Capability Console
+# PC3 - Published Computational Capability Console
 
 PC3 (Published Computational Capability Console) is a reference
 application for exploring, exercising, and observing **published
