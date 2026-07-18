@@ -3,7 +3,7 @@
 <p align="center">
   <img src="Images/publishcapabilitiesbanner.png"
        alt="Publish Capabilities"
-       width="900">
+       width="600">
 </p>
 
 **Specify–Implement–Serve–Deploy Knowledge Object Publication Model**
