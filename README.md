@@ -1,5 +1,9 @@
 # SISD-KOPM
 
+<p align="center">
+  <img src="images/publishcapabilitiesbanner.png" alt="Publish Capabilities" width="900">
+</p>
+
 **Specify–Implement–Serve–Deploy Knowledge Object Publication Model**
 
 The **SISD-KOPM** is a publication model for organizing, preserving, and evolving **published computational capabilities**. Its purpose is to enable evidence-based computational capabilities to become durable scholarly and operational objects that can be discovered, evaluated, referenced, corroborated, realized, deployed, and repeatedly applied at scale.
