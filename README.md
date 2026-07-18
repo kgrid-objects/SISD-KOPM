@@ -1,7 +1,9 @@
 # SISD-KOPM
 
 <p align="center">
-  <img src="[images/publishcapabilitiesbanner.png](https://github.com/kgrid-objects/SISD-KOPM/blob/main/Images/publishcapabilitiesbanner.png)" alt="Publish Capabilities" width="900">
+  <img src="Images/publishcapabilitiesbanner.png"
+       alt="Publish Capabilities"
+       width="900">
 </p>
 
 **Specify–Implement–Serve–Deploy Knowledge Object Publication Model**
